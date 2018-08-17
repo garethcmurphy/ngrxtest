@@ -1,5 +1,9 @@
 # @ngrx example application
 
+
+[![Build Status](https://travis-ci.org/garethcmurphy/ngrxtest.svg?branch=master)](https://travis-ci.org/garethcmurphy/ngrxtest)
+
+
 Example application utilizing @ngrx libraries, showcasing common patterns and best practices. Try it on [StackBlitz](https://stackblitz.com/github/ngrx/platform/tree/61cbfe537f9df8cef3dd4a6ee0b8f483e49653f4).
 
 This app is a book collection manager. The user can authenticate, use the Google Books API to search for
