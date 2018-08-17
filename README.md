@@ -1,7 +1,7 @@
 # @ngrx example application
 
 
-[![Build Status](https://travis-ci.org/garethcmurphy/ngrxtest.svg?branch=master)](https://travis-ci.org/garethcmurphy/ngrxtest)
+[![Build Status](https://travis-ci.org/garethcmurphy/ngrxtest.svg?branch=master)](https://travis-ci.org/garethcmurphy/ngrxtest) [![Greenkeeper badge](https://badges.greenkeeper.io/garethcmurphy/ngrxtest.svg)](https://greenkeeper.io/)
 
 
 Example application utilizing @ngrx libraries, showcasing common patterns and best practices. Try it on [StackBlitz](https://stackblitz.com/github/ngrx/platform/tree/61cbfe537f9df8cef3dd4a6ee0b8f483e49653f4).
