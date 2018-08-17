@@ -12,6 +12,8 @@ Built with [@angular/cli](https://github.com/angular/angular-cli)
 
 ### Included
 
+
+
 * [@ngrx/store](../docs/store/README.md) - RxJS powered state management for Angular apps, inspired by Redux
 * [@ngrx/effects](../docs/effects/README.md) - Side effect model for @ngrx/store
 * [@ngrx/router-store](../docs/router-store/README.md) - Bindings to connect the Angular Router to @ngrx/store
