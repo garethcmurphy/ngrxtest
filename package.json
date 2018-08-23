@@ -143,7 +143,7 @@
     "tslint": "^5.0.0",
     "tsutils": "3.0.0",
     "typescript": "~3.0.1",
-    "uglify-js": "^3.1.9"
+    "uglify-js": "3.4.7"
   },
   "collective": {
     "type": "opencollective",
