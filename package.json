@@ -85,7 +85,7 @@
     "ngrx-store-freeze": "^0.2.2",
     "opencollective": "^1.0.3",
     "rxjs": "^6.2.2",
-    "rxjs-compat": "^6.2.2",
+    "rxjs-compat": "^6.3.1",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
