@@ -89,7 +89,7 @@
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.7.4",
+    "@angular-devkit/build-angular": "~0.8.0",
     "@types/fs-extra": "^5.0.4",
     "@types/glob": "^5.0.33",
     "@types/jasmine": "2.8.8",
