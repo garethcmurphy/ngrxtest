@@ -134,7 +134,7 @@
     "reflect-metadata": "^0.1.9",
     "replace-in-file": "^3.1.1",
     "rimraf": "^2.5.4",
-    "rollup": "^0.64.1",
+    "rollup": "^0.66.2",
     "sorcery": "^0.10.0",
     "ts-node": "^7.0.1",
     "tsconfig-paths": "^3.1.3",
