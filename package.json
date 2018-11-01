@@ -108,7 +108,7 @@
     "chokidar-cli": "^1.2.0",
     "codelyzer": "^4.2.0",
     "conventional-changelog": "^2.0.1",
-    "conventional-changelog-cli": "^2.0.1",
+    "conventional-changelog-cli": "2.0.5",
     "coveralls": "^3.0.2",
     "cpy-cli": "^2.0.0",
     "deep-freeze": "^0.0.1",
