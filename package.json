@@ -117,7 +117,7 @@
     "husky": "^0.14.3",
     "jasmine": "^3.2.0",
     "jasmine-core": "^3.3.0",
-    "jasmine-marbles": "^0.3.1",
+    "jasmine-marbles": "^0.4.1",
     "jasmine-spec-reporter": "^4.2.1",
     "jest": "^23.6.0",
     "jest-preset-angular": "^6.0.0",
